@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/textScore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="138dp"
+        android:layout_y="209dp"
+        android:text="/20"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textTimeScore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="107dp"
+        android:layout_y="282dp"
+        android:text="0 seconds"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="100dp"
+        android:layout_y="140dp"
+        android:text="Your Score"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textScorePoint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="104dp"
+        android:layout_y="342dp"
+        android:text="points"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+
+
+      <Button
+          android:id="@+id/buttonMenu"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_x="225dp"
+          android:layout_y="405dp"
+          android:text="Quit" />
+
+</AbsoluteLayout>

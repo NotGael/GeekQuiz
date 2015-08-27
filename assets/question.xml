@@ -1,0 +1,103 @@
+<?xml version = "1.0" encoding="UTF-8" standalone="yes" ?>
+<list>
+	<item>
+		<question>
+			Quel auteur de science fiction introduit les trois lois de la robotique dans la culture populaire ?
+		</question>
+		<answer1>
+			test
+		</answer1>
+		<answer2>
+			Isaac Asimov
+		</answer2>
+		<answer3>
+			test
+		</answer3>
+		<answer4>
+			test
+		</answer4>
+		<goodAnswer>
+			2
+		</goodAnswer>
+	</item>
+	<item>
+		<question>
+			Qu’est-il écrit sur l’anneau unique de Lotr ?
+		</question>
+		<answer1>
+			test
+		</answer1>
+		<answer2>
+			test
+		</answer2>
+		<answer3>
+			test
+		</answer3>
+		<answer4>
+			Un Anneau pour les gouverner tous. Un Anneau pour les trouver. Un Anneau pour les amener tous et dans les ténèbres les lier.
+		</answer4>
+		<goodAnswer>
+			4
+		</goodAnswer>
+	<itemn>
+	<item>
+		<question>
+			Quelle est la 17ème décimale de Pi ?
+		</question>
+		<answer1>
+			1
+		</answer1>
+		<answer2>
+			2
+		</answer2>
+		<answer3>
+			3
+		</answer3>
+		<answer4>
+			4
+		</answer4>
+		<goodAnswer>
+			3
+		</goodAnswer>
+	</item>
+	<item>
+		<question>
+			Selon “2001 odyssée de l’espace”, qu’est-ce qui donnerait idée à l’humanité d’utiliser des objets ?
+		</question>
+		<answer1>
+			Un monolythe noir.
+		</answer1>
+		<answer2>
+			test
+		</answer2>
+		<answer3>
+			test
+		</answer3>
+		<answer4>
+			test
+		</answer4>
+		<goodAnswer>
+			1
+		</goodAnswer>
+	</item>
+	<item>
+		<question>
+			Un, deux, trois ?
+		</question>
+		<answer1>
+			Piano
+		</answer1>
+		<answer2>
+			test
+		</answer2>
+		<answer3>
+			test
+		</answer3>
+		<answer4>
+			test
+		</answer4>
+		<goodAnswer>
+			1
+		</goodAnswer>
+	</item>
+</list>

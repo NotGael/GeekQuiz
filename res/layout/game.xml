@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/buttonValid"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_x="6dp"
+        android:layout_y="460dp"
+        android:text="Valid" />
+
+    <Button
+        android:id="@+id/buttonQuit"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="104dp"
+        android:layout_x="278dp"
+        android:layout_y="459dp"
+        android:text="Quit" />
+    
+	<Button
+        android:id="@+id/buttonAnswer1"
+        android:layout_width="175dp"
+        android:layout_height="100dp"
+        android:layout_x="6dp"
+        android:layout_y="149dp"
+        android:text="Answer1" />
+
+    <Button
+        android:id="@+id/buttonAnswer3"
+        android:layout_width="175dp"
+        android:layout_height="100dp"
+        android:layout_x="8dp"
+        android:layout_y="266dp"
+        android:text="Answer3" />
+
+    <TextView
+        android:id="@+id/textSelected"
+        android:layout_width="344dp"
+        android:layout_height="65dp"
+        android:layout_x="20dp"
+        android:layout_y="381dp"
+        android:text="Selected Answer" />
+
+    <TextView
+        android:id="@+id/textQuestion"
+        android:layout_width="347dp"
+        android:layout_height="74dp"
+        android:layout_x="16dp"
+        android:layout_y="72dp"
+        android:text="Question"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/buttonAnswer2"
+        android:layout_width="175dp"
+        android:layout_height="100dp"
+        android:layout_x="207dp"
+        android:layout_y="151dp"
+        android:text="Answer2" />
+
+    <Button
+        android:id="@+id/buttonAnswer4"
+        android:layout_width="175dp"
+        android:layout_height="100dp"
+        android:layout_x="211dp"
+        android:layout_y="268dp"
+        android:text="Answer4"/>
+
+    <TextView
+        android:id="@+id/lblTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="27dp"
+        android:layout_y="-1dp"
+        android:text="lblTime"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/lblTime3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="82dp"
+        android:layout_y="-1dp"
+        android:text="lblTime3"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/textPoint"
+        android:layout_width="63dp"
+        android:layout_height="wrap_content"
+        android:layout_x="13dp"
+        android:layout_y="11dp"
+        android:text="0" />
+
+    <TextView
+        android:id="@+id/lblTime2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="16dp"
+        android:layout_y="42dp"
+        android:text="lblTime2" />
+
+    <TextView
+        android:id="@+id/textDifficulty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="205dp"
+        android:layout_y="11dp"
+        android:text="Difficulty" />
+
+    <TextView
+        android:id="@+id/textBonus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="52dp"
+        android:layout_y="213dp"
+        android:text="Well done!\nYou can validate the question\nWe&apos;ll give you an extra point"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FF0000"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/starPicture"
+        android:layout_width="144dp"
+        android:layout_height="144dp"
+        android:layout_x="116dp"
+        android:layout_y="188dp"
+        android:src="@android:drawable/star_big_on"
+        android:visibility="invisible" />
+
+</AbsoluteLayout>
